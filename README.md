@@ -1,4 +1,7 @@
-# Information Is Physical
+# Stored-Physical-Information-DNA-Brain-Memory-Digital-Computing
+From Abstract Information to Physical Information: A Comparative Thermodynamic and Machine Learning Framework Linking DNA, Brain Memory, and Digital Computation
+
+# Physical Information
 
 A comparative thermodynamic and machine learning framework linking DNA, brain memory, and digital computation through the shared principle that stored information is physically embodied, vulnerable to entropy, and maintained by energy-dependent processes.
 
@@ -33,7 +36,6 @@ This principle is explored through:
 ## Repository contents
 
 ```text
-.
 ├── README.md
 ├── modelcard.md
 ├── datasheet.md
@@ -121,9 +123,9 @@ DNA, brain memory, and computer bits are mechanistically different, but they all
 - preserving meaningful state distinctions requires energy.
 
 ## Suggested citation
+**Petalcorin, M.I.R.** (2026). From Abstract Information to Physical Information: A Comparative Thermodynamic and Machine Learning Framework Linking DNA, Brain Memory, and Digital Computation. https://github.com/mpetalcorin/Stored-Physical-Information-DNA-Brain-Memory-Digital-Computing
 
 If you use this repository in discussion, teaching, or conceptual work, please cite the manuscript and acknowledge that the notebook contains synthetic benchmark simulations rather than experimental datasets.
 
 ## License
-
-Add your preferred license here, for example MIT, BSD-3-Clause, or CC BY 4.0 depending on how you want the manuscript and code shared.
+MIT
