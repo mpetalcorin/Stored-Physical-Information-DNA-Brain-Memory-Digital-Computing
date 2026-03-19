@@ -68,12 +68,12 @@ Representative variables:
 
 ## How the data were generated
 
-The datasets were generated synthetically in Python inside a Jupyter Notebook.
+The datasets were generated synthetically in Python.
 
 The generation process followed these principles:
 
 1. Choose biologically or physically meaningful variables for each system.
-2. Assign plausible ranges inspired by peer-reviewed PubMed-indexed literature.
+2. Assign plausible ranges inspired by peer-reviewed journal literature.
 3. Sample those variables with controlled variation.
 4. Construct outcome variables using weighted relationships that reflect expected mechanistic logic.
 5. Validate the resulting distributions using summary statistics and benchmark checks.
@@ -157,9 +157,9 @@ If the repository is expanded, future versions of the datasets should clearly ve
 - any preprocessing changes.
 
 ## Distribution
-
-Add your preferred data-sharing terms or repository license here.
+MIT repository license
 
 ## Citation guidance
+**Mark I.R. Petalcorin** (2026). From Abstract Information to Physical Information: A Comparative Thermodynamic and Machine Learning Framework Linking DNA, Brain Memory, and Digital Computation. https://github.com/mpetalcorin/Stored-Physical-Information-DNA-Brain-Memory-Digital-Computing
 
 If these datasets are reused, cite them as synthetic benchmark datasets created for conceptual comparison of physically embodied information across DNA, brain memory, and digital computation.
