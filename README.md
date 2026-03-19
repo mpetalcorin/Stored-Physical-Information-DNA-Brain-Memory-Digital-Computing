@@ -25,8 +25,7 @@ stored information → physical embodiment → susceptibility to entropy → nee
 
 This principle is explored through:
 
-- a bioRxiv-style manuscript,
-- a synthetic benchmark Jupyter notebook,
+- a synthetic benchmark datasets,
 - exploratory statistics,
 - supervised machine learning,
 - feature-importance analysis,
@@ -46,7 +45,7 @@ This principle is explored through:
 
 ## Notebook summary
 
-The notebook generates three synthetic datasets inspired by peer-reviewed PubMed-indexed literature:
+The notebook generates three synthetic datasets inspired by peer-reviewed journal literature:
 
 1. **DNA dataset**
    - lesion burden
@@ -118,7 +117,7 @@ This repository is **not** a substitute for direct experimental measurement. The
 
 DNA, brain memory, and computer bits are mechanistically different, but they all illustrate the same deep rule:
 
-- information must be physically instantiated,
+- stored information must be physically instantiated,
 - physical instantiation is vulnerable to disorder,
 - preserving meaningful state distinctions requires energy.
 
