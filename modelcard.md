@@ -2,7 +2,7 @@
 
 ## Model name
 
-**Information Is Physical Comparative Modeling Suite**
+**Physical Information Comparative Modeling Suite**
 
 ## Model summary
 
@@ -43,7 +43,7 @@ Because the models are trained on synthetic benchmark data, they must not be int
 
 ## Data used
 
-The models were trained on synthetic datasets whose feature ranges were inspired by peer-reviewed PubMed-indexed literature on:
+The models were trained on synthetic datasets whose feature ranges were inspired by peer-reviewed literature on:
 
 - DNA damage and repair
 - ATP-dependent chromatin remodeling
@@ -157,5 +157,4 @@ This repository operates in a low-risk conceptual setting, but several points re
 - Build domain-specific mechanistic submodels before attempting stronger cross-domain generalization.
 
 ## Contact
-
-Add repository owner contact details here.
+**Mark I.R. Petalcorin** (2026). From Abstract Information to Physical Information: A Comparative Thermodynamic and Machine Learning Framework Linking DNA, Brain Memory, and Digital Computation. https://github.com/mpetalcorin/Stored-Physical-Information-DNA-Brain-Memory-Digital-Computing
