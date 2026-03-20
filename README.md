@@ -1,6 +1,6 @@
 # Stored-Physical-Information-DNA-Brain-Memory-Digital-Computing
 From Abstract Information to Physical Information: A Comparative Thermodynamic and Machine Learning Framework Linking DNA, Brain Memory, and Digital Computation
-
+<img width="1296" height="1007" alt="Screenshot 2026-03-20 at 11 48 36" src="https://github.com/user-attachments/assets/582ae3b6-092e-45d1-98af-37b84c60b086" />
 # Physical Information
 
 A comparative thermodynamic and machine learning framework linking DNA, brain memory, and digital computation through the shared principle that stored information is physically embodied, vulnerable to entropy, and maintained by energy-dependent processes.
