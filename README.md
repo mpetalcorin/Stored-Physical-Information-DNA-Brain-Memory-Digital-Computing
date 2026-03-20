@@ -5,8 +5,10 @@ From Abstract Information to Physical Information: A Comparative Thermodynamic a
 
 A comparative thermodynamic and machine learning framework linking DNA, brain memory, and digital computation through the shared principle that stored information is physically embodied, vulnerable to entropy, and maintained by energy-dependent processes.
 
-## Overview
+## Objective
+to develop and test a comparative framework showing that DNA, brain memory, and digital computation are distinct forms of physically embodied information whose preservation is governed by thermodynamic constraint and energy-dependent maintenance.
 
+## Overview
 This repository contains the conceptual manuscript, literature-anchored synthetic benchmark notebook, and supporting materials for a cross-domain study of information storage in three physically distinct systems:
 
 - **DNA**, where information is encoded in nucleotide sequence and chromatin organization.
